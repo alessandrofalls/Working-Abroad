@@ -30,3 +30,13 @@ Selecionar os melhores profissionais para uma vaga específica em uma empresa da
 3. Entrevista inicial: Preencher a lista incial dele, tenta identificar se o candidato possui potencial para prosseguir para as próximas etapas.
 4. Fase técnica: normalmente possui um teste e uma entrevista de validação dos conhecimentos.
 5. Fase gerencial: conversa com gestores para checagem da afinidade com o negócio: FIT CULTURAL.
+6. Oferta: salário e benefícios.
+
+## Estratégia para acabat com o medo de entrevistas
+
+- Se candidate a muitas vagas.
+- Faça muitos processos seletivos.
+- Analise seus resultados.
+- Evolua!
+- Reflita sobre seu momento atual.
+- Escreva um documento como você se apresentaria.
